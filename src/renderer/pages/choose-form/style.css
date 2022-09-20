@@ -1,0 +1,16 @@
+.form-box {
+    padding: 2ch;
+}
+
+.form-box .form-control {
+    margin-top: 2ch;
+}
+
+.form-box .form-button {
+    margin-top: 2ch;
+}
+
+div .double-form-control {
+    margin-top: 2ch;
+    width: 48%;
+}
